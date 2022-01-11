@@ -20,6 +20,8 @@
 /*
 
 - Initialize a while loop that will run as long as n is greater than 0.
+- Check if the last element of nums1 is greater than the last element of nums2.
+
 
 */
 
