@@ -13,4 +13,6 @@
             nums1[m + n - 1] = nums2[--n];
           }
       }
+
+      return nums1;
 };
