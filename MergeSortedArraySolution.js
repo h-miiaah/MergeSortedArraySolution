@@ -23,6 +23,7 @@
 - Check if the last element of nums1 is greater than the last element of nums2.
 - If it is, we decrement m and then swap the last element of nums1 with the last element of nums2.
 - If it isn’t, we decrement n and then swap the last element of nums1 with the last element of nums2.
+- Finally, we return nums1.
 
 */
 
