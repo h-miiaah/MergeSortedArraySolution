@@ -16,3 +16,10 @@
 
       return nums1;
 };
+
+/*
+
+- Initialize a while loop that will run as long as n is greater than 0.
+
+*/
+
